@@ -2,6 +2,6 @@
 
 a Web Developer in @pinduoduo.
 
-- 🏗 Focus on Web
-- 💬 WeChat: [lan_yincao](lan_yincao)
-- 📫 Ping me by [Email](mailto:lyc.ge@foxmail.com)
+- 🏗  Focus on Web
+- 💬  WeChat: [lan_yincao](lan_yincao)
+- 📫  Ping me by [Email](mailto:lyc.ge@foxmail.com)
